@@ -44,9 +44,8 @@ Before running the project, complete the following setup:
 ## Execution Instructions
 
 To run the project in development mode:
-    ```bash
-        npm start
-    
+      
+       npm start
 
 ## How to Run Tests
 
