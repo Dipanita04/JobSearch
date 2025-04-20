@@ -22,9 +22,37 @@ To install the project locally:
    git clone https://github.com/Dipanita04/JobSearch.git
 
 2. Navigate into the project folder:
+   ```bash
+   cd JobSearch
 
-cd JobSearch
+3. Install all dependencies:
+    ```bash
+   npm install
 
-Install all dependencies:
+## Setup Commands
 
-npm install
+Before running the project, complete the following setup:
+
+1. Create a .env file in the root directory.
+
+2. Add necessary environment variables, for example:
+
+
+    ```bash
+      REACT_APP_API_URL=https://your-api-endpoint.com
+
+## Execution Instructions
+
+To run the project in development mode:
+    ```bash
+        npm start
+    
+
+## How to Run Tests
+
+To run all tests for the project:
+ ```bash
+npm test
+
+
+
